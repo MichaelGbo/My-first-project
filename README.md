@@ -1,6 +1,6 @@
 # My-first-project
 
-hey this is my first project :}
+hey this is my first project.
 
 print("Simple 4-Operation Calculator")
 try:
